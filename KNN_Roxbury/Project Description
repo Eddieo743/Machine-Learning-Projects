@@ -1,0 +1,3 @@
+Project Description:
+
+The project focuses on analyzing the Roxbury dataset, which contains information about housing properties, to predict whether homes have undergone remodeling. By leveraging machine learning techniques, specifically the k-Nearest Neighbors (kNN) algorithm, the project aims to provide insights into the housing market dynamics. Key features such as total price, number of rooms, and living area are used as predictors for classification. Through systematic evaluation of the kNN model with different values of k, the project identifies the optimal configuration that maximizes predictive accuracy. The findings of this analysis offer valuable insights for stakeholders in the real estate market, aiding in informed decision-making processes.
