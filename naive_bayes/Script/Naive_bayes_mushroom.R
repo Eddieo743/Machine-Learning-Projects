@@ -1,5 +1,5 @@
 # Read the dataset
-mushroom <- read.csv("data/mushrooms.csv")
+mushroom <- read.csv("Data/mushrooms.csv")
 
 # Check the structure of the dataset
 str(mushroom)
@@ -38,4 +38,5 @@ levels(m_pred) <- levels(testLabels)
 
 # Calculate confusion matrix
 confusionMatrix(m_pred, testLabels)
+
 
