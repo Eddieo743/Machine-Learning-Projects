@@ -3,18 +3,18 @@
 ## Introduction
 This project implements a Naive Bayes classification model to predict whether a mushroom is edible or poisonous based on its physical characteristics. The goal is to demonstrate a complete supervised machine learning workflow using R.
 
-The mushroom dataset is well-suited for Naive Bayes because it consists entirely of categorical features, making probabilistic classification both efficient and interpretable.
+The mushroom dataset is well-suited for Naive Bayes because it consists entirely of categorical features, making probabilistic classification optimal.
 
 ## Dataset
 The dataset (`mushrooms.csv`) contains observations of mushrooms described by categorical attributes such as:
-- Cap shape and color
-- Odor
-- Gill size and color
-- Stalk characteristics
+Cap shape and color
+Odor
+Gill size and color
+Stalk characteristics
 
 The target variable, `class`, indicates whether a mushroom is:
-- `e` — edible  
-- `p` — poisonous  
+e — edible  
+p — poisonous  
 
 ## Objective
 The objectives of this project are to:
@@ -35,7 +35,6 @@ The project follows a standard machine learning process:
 - R
 - caret — data partitioning and evaluation
 - e1071 — Naive Bayes implementation
-
 ---
 
 ## Results
