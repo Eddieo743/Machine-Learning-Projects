@@ -3,7 +3,9 @@ Welcome to my Machine Learning Projects repository! This repo contains a collect
 
 ## Repository structure:
 Data/ – Contains the dataset(s) used in the project
+
 Script/ – R/Python scripts used to process data, build models, and generate results
+
 report.Rmd  – A reproducible report showing code, results, and evaluation
 
 
