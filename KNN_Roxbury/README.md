@@ -19,32 +19,32 @@ The dataset (Roxbury.csv) contains housing information used for model training a
 
 ### Features Used
 
-Total Price:
+#### Total Price:
 Represents the overall market value of the home.
 
-Number of Rooms:
+#### Number of Rooms:
 Includes bedrooms, bathrooms, and other living spaces, reflecting property size and functionality.
 
-Living Area:
+#### Living Area:
 Total usable living space measured in square feet (or square meters).
 
-Target Variable:
+#### Target Variable:
 Remodeled Status (binary classification)
 Indicates whether the home has undergone remodeling
 
 ## Method
 
-Data Preparation
+#### Data Preparation
 
 Split the dataset into 60% training and 40% testing sets
 Standardized numerical features using centering and scaling
 
-Modeling
+#### Modeling
 
 Implemented a kNN classifier using the class package
 Used an initial value of k = 3 to establish baseline performance
 
-Model Evaluation
+#### Model Evaluation
 
 Evaluated accuracy on the test dataset
 Tuned the hyperparameter k by testing values from 1 to 15
