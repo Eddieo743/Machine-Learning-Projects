@@ -4,7 +4,7 @@ Welcome to my Machine Learning Projects repository! This repo contains a collect
 ## Repository structure:
 Data/ – Contains the dataset(s) used in the project
 
-Script/ – R/Python scripts used to process data, build models, and generate results
+Script/ – R used to process data, build models, and generate results
 
 report.Rmd  – A reproducible report showing code, results, and evaluation
 
@@ -14,6 +14,8 @@ report.Rmd  – A reproducible report showing code, results, and evaluation
 Mushroom Classification (Naive Bayes) – Predicts whether a mushroom is edible or poisonous using categorical features.
 
 Home Classification (kNN) - Predicts whether homes have been remodeled based on key features such as price, number of rooms, and living area.
+
+Wine Classification (Decision Trees) - Comparative analysis between decision tree, boosting, bagging, and random forest on wine dataset.
 
 ## Techniques
 
